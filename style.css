@@ -53,12 +53,19 @@ html, body{
     
 }
 
-#bottom p{
+#bottom a{
     font-size: 15px;
     padding-left: 5%;
     font-size: 15px;
-   
+    text-decoration: none;
+    color: #111;
 }
+
+ul{
+    list-style: none;
+}
+
+
 #bottom h4{
     font-size: 30px;
     left: 0;
